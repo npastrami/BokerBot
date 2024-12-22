@@ -1,7 +1,7 @@
 '''
 Simple example pokerbot, written in Python.
 '''
-from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction, BidAction
+from skeleton.actions import FoldAction, CallAction, CheckAction, RaiseAction
 from skeleton.states import GameState, TerminalState, RoundState
 from skeleton.states import NUM_ROUNDS, STARTING_STACK, BIG_BLIND, SMALL_BLIND
 from skeleton.bot import Bot
@@ -99,8 +99,6 @@ class Player(Bot):
         opp_pip = round_state.pips[1-active]  # the number of chips your opponent has contributed to the pot this round of betting
         my_stack = round_state.stacks[active]  # the number of chips you have remaining
         opp_stack = round_state.stacks[1-active]  # the number of chips your opponent has remaining
-        my_bid = round_state.bids[active]  # How much you bid previously (available only after auction)
-        opp_bid = round_state.bids[1-active]  # How much opponent bid previously (available only after auction)
         continue_cost = opp_pip - my_pip  # the number of chips needed to stay in the pot
         my_contribution = STARTING_STACK - my_stack  # the number of chips you have contributed to the pot
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
@@ -113,12 +111,12 @@ class Player(Bot):
         if RaiseAction in legal_actions and len(my_cards) == 3:
             return RaiseAction(max_raise)
         if self.strong_hole == True and RaiseAction in legal_actions:
-            raise_amount = min_raise + (max_raise - min_raise) * 0.1
+            raise_amount = int(min_raise + (max_raise - min_raise) * 0.1)
             return RaiseAction(raise_amount)
         if CheckAction in legal_actions:
             return CheckAction()
-        elif BidAction in legal_actions:
-            return BidAction(int(0.5*my_stack)) # random bid between 0 and our stack
+        # elif BidAction in legal_actions:
+        #     return BidAction(int(0.5*my_stack)) # random bid between 0 and our stack
         elif self.strong_hole == False and FoldAction in legal_actions:
             return FoldAction()
         return CallAction()

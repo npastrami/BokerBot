@@ -1,0 +1,9760 @@
+6.176 MIT Pokerbots - A vs B
+
+Round #1, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Ks]
+B dealt [Qd Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #2, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 8s]
+A dealt [3h 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #3, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Qs]
+B dealt [Qc 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #4, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 7d]
+A dealt [2c 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #5, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Js]
+B dealt [Qh 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #6, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 5d]
+A dealt [Qc Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #7, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 5d]
+B dealt [3h Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #8, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Qc]
+A dealt [6h 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #9, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 6s]
+B dealt [4d Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #10, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 9d]
+A dealt [3s 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #11, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Kc]
+B dealt [Ad Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #12, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Th]
+A dealt [Ad 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #13, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 7d]
+B dealt [6d 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #14, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h 8h]
+A dealt [3s Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #15, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 6c]
+B dealt [4c 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #16, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Th]
+A dealt [Ad Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #17, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Ad]
+B dealt [6h 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #18, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 8d]
+A dealt [Kd 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #19, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 2h]
+B dealt [2d 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #20, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Th]
+A dealt [Ts 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #21, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 2h]
+B dealt [Tc 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #22, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c Ks]
+A dealt [Kh 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #23, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd Ah]
+B dealt [8c 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #24, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 8d]
+A dealt [5c Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #25, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 9c]
+B dealt [Ac Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #26, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 6d]
+A dealt [5d 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #27, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 6d]
+B dealt [9d Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #28, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 4d]
+A dealt [8c Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #29, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Qs]
+B dealt [Kh Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #30, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 9s]
+A dealt [9c 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #31, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 4s]
+B dealt [Qs 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #32, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Qh]
+A dealt [5h 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #33, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 7c]
+B dealt [8d Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #34, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 9s]
+A dealt [9d 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #35, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 5s]
+B dealt [Tc As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #36, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 8c]
+A dealt [7h Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #37, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Qs]
+B dealt [Js Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #38, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 7c]
+A dealt [Kc Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #39, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 4c]
+B dealt [3h Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #40, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ks]
+A dealt [6c 5s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #41, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Ac]
+B dealt [7h Ts]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #42, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 4s]
+A dealt [4h 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #43, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 3c]
+B dealt [8h 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #44, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Ad]
+A dealt [Jc 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #45, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 6h]
+B dealt [7s 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #46, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 5d]
+A dealt [7s 8h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #47, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 7h]
+B dealt [4d 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #48, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Jc]
+A dealt [5c Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #49, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 9d]
+B dealt [Js 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #50, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 3c]
+A dealt [8s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #51, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Js]
+B dealt [3d 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #52, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 9d]
+A dealt [2s 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #53, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Ad]
+B dealt [7c Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #54, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 4s]
+A dealt [6s 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #55, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Kh]
+B dealt [6s 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #56, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 8h]
+A dealt [Kh Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #57, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 2c]
+B dealt [Kc 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #58, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Jd]
+A dealt [9h Qc]
+B raises to 43
+A calls
+Flop [Th Qh 2c], B (43), A (43)
+A attempted illegal RaiseAction
+A checks
+B bets 37
+A calls
+Turn [Th Qh 2c 3d], B (80), A (80)
+A attempted illegal RaiseAction
+A checks
+B bets 33
+A calls
+River [Th Qh 2c 3d Js], B (113), A (113)
+A bets 2
+B raises to 32
+A raises to 155
+B raises to 278
+A raises to 287
+B calls
+B shows [Qs Jd]
+A shows [9h Qc]
+B awarded 400
+A awarded -400
+
+Round #59, A (-404), B (404)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 2d]
+B dealt [4s 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #60, B (405), A (-405)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 7d]
+A dealt [Jd Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #61, A (-404), B (404)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh Kc]
+B dealt [9d 8c]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #62, B (405), A (-405)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Qh]
+A dealt [8d 5c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #63, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 3d]
+B dealt [8s 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #64, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 4h]
+A dealt [Js 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #65, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts Th]
+B dealt [7c Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #66, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 6d]
+A dealt [Ts 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #67, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Kh]
+B dealt [3s 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #68, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 9d]
+A dealt [4s 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #69, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 5h]
+B dealt [Qc Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #70, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Qs]
+A dealt [Tc Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #71, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 6c]
+B dealt [Js 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #72, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Jc]
+A dealt [4s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #73, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 2s]
+B dealt [5h Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #74, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 8c]
+A dealt [4c Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #75, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s Kh]
+B dealt [7c Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #76, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 6s]
+A dealt [4h Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #77, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 7s]
+B dealt [Jc 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #78, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Qc]
+A dealt [4d 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #79, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 7c]
+B dealt [4c 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #80, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 5d]
+A dealt [Ac 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #81, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 4s]
+B dealt [4c 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #82, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Kc]
+A dealt [6c Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #83, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 7d]
+B dealt [2s 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #84, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 2d]
+A dealt [2s 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #85, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Kc]
+B dealt [4d 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #86, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Kh]
+A dealt [Ad 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #87, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 6c]
+B dealt [9h Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #88, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 5s]
+A dealt [Kd 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #89, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Tc]
+B dealt [Ad 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #90, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 2d]
+A dealt [6c Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #91, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Qd]
+B dealt [Th 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #92, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 2s]
+A dealt [9c 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #93, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 2s]
+B dealt [5s 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #94, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 7s]
+A dealt [Qs 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #95, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 2d]
+B dealt [5d Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #96, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 5c]
+A dealt [8s 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #97, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Td]
+B dealt [Qc As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #98, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 3h]
+A dealt [9c 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #99, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Ah]
+B dealt [7d 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #100, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 4h]
+A dealt [2h Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #101, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 2c]
+B dealt [9c 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #102, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 6h]
+A dealt [Ac 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #103, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 4s]
+B dealt [7h 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #104, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Ts]
+A dealt [3d 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #105, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Jh]
+B dealt [7h Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #106, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 4h]
+A dealt [6s 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #107, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Kh]
+B dealt [4h 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #108, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 3c]
+A dealt [Tc 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #109, A (-407), B (407)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Tc]
+B dealt [7d Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #110, B (408), A (-408)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 5s]
+A dealt [Jc Qd]
+B raises to 43
+A calls
+Flop [8h 3h 8c], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #111, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Kh]
+B dealt [4c Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #112, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 6h]
+A dealt [Qs 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #113, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 7d]
+B dealt [3d 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #114, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 2s]
+A dealt [2c 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #115, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 9d]
+B dealt [8c Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #116, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 9h]
+A dealt [Qh 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #117, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Qh]
+B dealt [8s Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #118, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 8s]
+A dealt [Js Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #119, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 2h]
+B dealt [3d Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #120, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Js]
+A dealt [As 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #121, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 6d]
+B dealt [4s 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #122, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 8d]
+A dealt [Kc 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #123, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 2d]
+B dealt [Jc 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #124, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 3h]
+A dealt [Jc Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #125, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 9d]
+B dealt [Qc 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #126, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 4h]
+A dealt [3h 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #127, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Td]
+B dealt [7s 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #128, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 3h]
+A dealt [Kc Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #129, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 7s]
+B dealt [Qs 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #130, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 7s]
+A dealt [Tc As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #131, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Kc]
+B dealt [6c Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #132, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 8s]
+A dealt [6h Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #133, A (-451), B (451)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 6h]
+B dealt [7c Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #134, B (452), A (-452)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd As]
+A dealt [Jh 4s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #135, A (-454), B (454)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 3s]
+B dealt [8h 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #136, B (455), A (-455)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh Qd]
+A dealt [Jd 4h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #137, A (-457), B (457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 7s]
+B dealt [Qd 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #138, B (458), A (-458)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 6h]
+A dealt [5h Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #139, A (-457), B (457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 8h]
+B dealt [7d 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #140, B (458), A (-458)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 6c]
+A dealt [8c Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #141, A (-457), B (457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h As]
+B dealt [9c Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #142, B (458), A (-458)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 2h]
+A dealt [3c 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #143, A (-457), B (457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 7c]
+B dealt [5c Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #144, B (458), A (-458)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Js]
+A dealt [Qd Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #145, A (-457), B (457)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Tc]
+B dealt [Qh Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #146, B (458), A (-458)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 6c]
+A dealt [Tc 7s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #147, A (-460), B (460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Ac]
+B dealt [8h Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #148, B (461), A (-461)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Qs]
+A dealt [4h Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #149, A (-460), B (460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 4s]
+B dealt [Jc 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #150, B (461), A (-461)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 7h]
+A dealt [Kc 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #151, A (-460), B (460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c Jc]
+B dealt [3c 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #152, B (461), A (-461)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 9d]
+A dealt [7s Ts]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #153, A (-463), B (463)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 7c]
+B dealt [Qd 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #154, B (464), A (-464)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 7d]
+A dealt [3s 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #155, A (-463), B (463)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Ks]
+B dealt [5h 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #156, B (464), A (-464)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Tc]
+A dealt [Kc 3s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #157, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Th]
+B dealt [Td 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #158, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 2h]
+A dealt [9h Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #159, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 3h]
+B dealt [8c 7c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #160, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 6h]
+A dealt [9h Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #161, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc Td]
+B dealt [8c 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #162, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c Qh]
+A dealt [6c 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #163, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 9h]
+B dealt [Js 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #164, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 2s]
+A dealt [Qs Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #165, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5s]
+B dealt [Qh Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #166, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 4s]
+A dealt [7c 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #167, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 2s]
+B dealt [3s 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #168, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 2h]
+A dealt [Qh 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #169, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 9d]
+B dealt [2d 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #170, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 5s]
+A dealt [Ah 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #171, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 5c]
+B dealt [3h 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #172, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 8d]
+A dealt [5h 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #173, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Kh]
+B dealt [Ts 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #174, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Ts]
+A dealt [9h Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #175, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 6s]
+B dealt [Jc 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #176, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 3s]
+A dealt [3d Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #177, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Jh]
+B dealt [Jc Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #178, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 6d]
+A dealt [Ts 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #179, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 9c]
+B dealt [Qd 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #180, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Jc]
+A dealt [4s As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #181, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 4d]
+B dealt [8s 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #182, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Th]
+A dealt [5h 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #183, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 8d]
+B dealt [3c Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #184, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 8s]
+A dealt [Th 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #185, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Qc]
+B dealt [8h 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #186, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Ts]
+A dealt [8h 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #187, A (-466), B (466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 9c]
+B dealt [3h 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #188, B (467), A (-467)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Js]
+A dealt [6d 3c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #189, A (-469), B (469)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 3s]
+B dealt [4h 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #190, B (470), A (-470)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Qd]
+A dealt [8c 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #191, A (-469), B (469)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 5h]
+B dealt [5d 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #192, B (470), A (-470)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 5h]
+A dealt [7d 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #193, A (-469), B (469)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Jh]
+B dealt [6s 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #194, B (470), A (-470)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Th]
+A dealt [Kh 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #195, A (-469), B (469)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Qh]
+B dealt [Js 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #196, B (470), A (-470)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks Jh]
+A dealt [Th Kc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #197, A (-472), B (472)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Qc]
+B dealt [Jd Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #198, B (473), A (-473)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Kd]
+A dealt [9c 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #199, A (-472), B (472)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 3d]
+B dealt [Tc 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #200, B (473), A (-473)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks Qs]
+A dealt [Ad 8d]
+B raises to 43
+A calls
+Flop [Ac 9d 5h], B (43), A (43)
+A bets 2
+B raises to 39
+A raises to 190
+B raises to 342
+A raises to 357
+B calls
+Turn [Ac 9d 5h 6s], B (400), A (400)
+A checks
+B checks
+River [Ac 9d 5h 6s 6d], B (400), A (400)
+A checks
+B checks
+Run [Ac 9d 5h 6s 6d 3h], B (400), A (400)
+A checks
+B checks
+Run [Ac 9d 5h 6s 6d 3h 9c], B (400), A (400)
+A checks
+B checks
+B shows [Ks Qs]
+A shows [Ad 8d]
+B awarded -400
+A awarded 400
+
+Round #201, A (-73), B (73)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 6s]
+B dealt [5d 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #202, B (74), A (-74)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 6s]
+A dealt [4s Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #203, A (-73), B (73)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 8d]
+B dealt [Kd 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #204, B (74), A (-74)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks Js]
+A dealt [7s Kc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #205, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Ts]
+B dealt [3s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #206, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Jc]
+A dealt [2c 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #207, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 6d]
+B dealt [Kh Th]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #208, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Jh]
+A dealt [2d 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #209, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Qd]
+B dealt [Qc 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #210, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 3c]
+A dealt [Qh Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #211, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 7c]
+B dealt [Qs Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #212, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Ac]
+A dealt [4c Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #213, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 8c]
+B dealt [4d Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #214, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 9d]
+A dealt [8d 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #215, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh Kd]
+B dealt [9h Th]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #216, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c Jd]
+A dealt [5h Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #217, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 5c]
+B dealt [3c Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #218, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Ks]
+A dealt [3d Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #219, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts Td]
+B dealt [6d 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #220, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 9s]
+A dealt [9h 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #221, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 9h]
+B dealt [4d Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #222, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Kh]
+A dealt [5d Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #223, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Kc]
+B dealt [7s 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #224, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Qd]
+A dealt [9c 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #225, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 3h]
+B dealt [Js 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #226, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 5d]
+A dealt [7s Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #227, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 2c]
+B dealt [Kd Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #228, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Qh]
+A dealt [Jd 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #229, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 3d]
+B dealt [Jc Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #230, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 5s]
+A dealt [5c Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #231, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 4c]
+B dealt [9c Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #232, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 5d]
+A dealt [Ad Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #233, A (-76), B (76)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 9d]
+B dealt [2h 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #234, B (77), A (-77)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Kc]
+A dealt [7h 2d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #235, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 6d]
+B dealt [Ah 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #236, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 5h]
+A dealt [Kh Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #237, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 9h]
+B dealt [7d Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #238, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 6s]
+A dealt [Tc 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #239, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 7c]
+B dealt [8d Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #240, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 9c]
+A dealt [As Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #241, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 6h]
+B dealt [4c 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #242, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 7d]
+A dealt [8c Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #243, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Th]
+B dealt [9s Ts]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #244, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts 2d]
+A dealt [5c 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #245, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 3c]
+B dealt [9h 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #246, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 9c]
+A dealt [2s 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #247, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Qs]
+B dealt [4d 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #248, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Qh]
+A dealt [Qc 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #249, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 3d]
+B dealt [9s 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #250, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 7d]
+A dealt [Td 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #251, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 4h]
+B dealt [4s Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #252, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 4s]
+A dealt [Kh 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #253, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 8d]
+B dealt [Ad Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #254, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Qd]
+A dealt [Ac 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #255, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 4d]
+B dealt [Ks Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #256, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 3s]
+A dealt [Qh 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #257, A (-79), B (79)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h 2h]
+B dealt [Kd Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #258, B (80), A (-80)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 3d]
+A dealt [9d 3h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #259, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 8h]
+B dealt [3s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #260, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Td]
+A dealt [Kh 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #261, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Ts]
+B dealt [6c Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #262, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 8d]
+A dealt [Kc 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #263, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5c]
+B dealt [Ks Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #264, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Ah]
+A dealt [7c Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #265, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 6h]
+B dealt [6c 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #266, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 2h]
+A dealt [7d 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #267, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd Td]
+B dealt [6d 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #268, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 6s]
+A dealt [8s 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #269, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 9c]
+B dealt [9d 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #270, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 7h]
+A dealt [Ah Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #271, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 6s]
+B dealt [Qd Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #272, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 6s]
+A dealt [Ts 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #273, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Js]
+B dealt [8h 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #274, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 9h]
+A dealt [Jc 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #275, A (-82), B (82)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 3c]
+B dealt [Jd 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #276, B (83), A (-83)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Qs]
+A dealt [6d 5s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #277, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 7c]
+B dealt [9h 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #278, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Ks]
+A dealt [Td 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #279, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 3s]
+B dealt [7h 7c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #280, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 4d]
+A dealt [9h Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #281, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 3s]
+B dealt [2h Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #282, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Tc]
+A dealt [5s 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #283, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 8h]
+B dealt [Kc 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #284, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Td]
+A dealt [2h Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #285, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 3d]
+B dealt [2h Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #286, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8h]
+A dealt [Qd Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #287, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5s]
+B dealt [9h 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #288, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 8s]
+A dealt [8c 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #289, A (-85), B (85)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c Kc]
+B dealt [5d Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #290, B (86), A (-86)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc Ac]
+A dealt [5h 3s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #291, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc Kd]
+B dealt [7h 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #292, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Kc]
+A dealt [5h 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #293, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Kd]
+B dealt [Ts 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #294, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 9c]
+A dealt [5d 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #295, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 4d]
+B dealt [7s 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #296, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 4d]
+A dealt [7d 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #297, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h Ad]
+B dealt [8h 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #298, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Kc]
+A dealt [8h 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #299, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Ad]
+B dealt [8c 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #300, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 4h]
+A dealt [2h Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #301, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Ks]
+B dealt [Th Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #302, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c Jh]
+A dealt [Kd 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #303, A (-88), B (88)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 2c]
+B dealt [6c Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #304, B (89), A (-89)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Qc]
+A dealt [4s 4c]
+B raises to 43
+A calls
+Flop [Qh 3c Ad], B (43), A (43)
+A checks
+B bets 37
+A calls
+Turn [Qh 3c Ad 8d], B (80), A (80)
+A checks
+B bets 33
+A folds
+B awarded 80
+A awarded -80
+
+Round #305, A (-169), B (169)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 5s]
+B dealt [3h Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #306, B (170), A (-170)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Ks]
+A dealt [5s Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #307, A (-169), B (169)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 2d]
+B dealt [Ah 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #308, B (170), A (-170)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Td]
+A dealt [6c Qc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #309, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 9s]
+B dealt [6s 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #310, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 3s]
+A dealt [Kh Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #311, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 8s]
+B dealt [Qs Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #312, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 5c]
+A dealt [As Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #313, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5h]
+B dealt [Qh 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #314, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Jh]
+A dealt [7s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #315, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 2c]
+B dealt [Kc Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #316, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Kd]
+A dealt [6d Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #317, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Tc]
+B dealt [6h 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #318, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Js]
+A dealt [3d Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #319, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 7d]
+B dealt [Js 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #320, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 9c]
+A dealt [3c Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #321, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Ah]
+B dealt [9c 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #322, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Jd]
+A dealt [Ks 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #323, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 3d]
+B dealt [Ks 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #324, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Kc]
+A dealt [Jh 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #325, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Ac]
+B dealt [3h 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #326, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 4d]
+A dealt [Kd 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #327, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Js]
+B dealt [Kh 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #328, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 2h]
+A dealt [4h 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #329, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Kh]
+B dealt [6c 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #330, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c Jh]
+A dealt [3h 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #331, A (-172), B (172)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs Qd]
+B dealt [9d Jc]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #332, B (173), A (-173)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Qs]
+A dealt [Ts Ks]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #333, A (-175), B (175)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 9c]
+B dealt [8d 7c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #334, B (176), A (-176)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 2h]
+A dealt [8h As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #335, A (-175), B (175)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 5d]
+B dealt [Ah Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #336, B (176), A (-176)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Jc]
+A dealt [2h Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #337, A (-175), B (175)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 7s]
+B dealt [2d Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #338, B (176), A (-176)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Th]
+A dealt [Td Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #339, A (-175), B (175)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 9s]
+B dealt [Th 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #340, B (176), A (-176)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 3d]
+A dealt [Td 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #341, A (-175), B (175)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Tc]
+B dealt [7s 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #342, B (176), A (-176)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Ah]
+A dealt [3c 3d]
+B raises to 43
+A calls
+Flop [Ad Tc Qd], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #343, A (-219), B (219)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc Qc]
+B dealt [Qh Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #344, B (220), A (-220)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 5c]
+A dealt [7d Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #345, A (-219), B (219)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Ah]
+B dealt [Jh 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #346, B (220), A (-220)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 3c]
+A dealt [8h 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #347, A (-219), B (219)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Kh]
+B dealt [Td 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #348, B (220), A (-220)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Qc]
+A dealt [7s Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #349, A (-219), B (219)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Qc]
+B dealt [Ts 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #350, B (220), A (-220)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 5d]
+A dealt [3h 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #351, A (-219), B (219)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c As]
+B dealt [4h 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #352, B (220), A (-220)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Jh]
+A dealt [6c As]
+B raises to 43
+A calls
+Flop [8c Qd Qc], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #353, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 3d]
+B dealt [Ts 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #354, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d As]
+A dealt [6s 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #355, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 9h]
+B dealt [Jd Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #356, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 8h]
+A dealt [8d 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #357, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Ad]
+B dealt [Th 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #358, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Ts]
+A dealt [As 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #359, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Js]
+B dealt [5c Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #360, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 3d]
+A dealt [Js Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #361, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 3h]
+B dealt [Td 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #362, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 9d]
+A dealt [2s 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #363, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Th]
+B dealt [6h Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #364, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 9s]
+A dealt [5d 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #365, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 4d]
+B dealt [Ts 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #366, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Qh]
+A dealt [9d 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #367, A (-263), B (263)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Th]
+B dealt [Jc Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #368, B (264), A (-264)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 3s]
+A dealt [4c Tc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #369, A (-266), B (266)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 2d]
+B dealt [5c Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #370, B (267), A (-267)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc Ks]
+A dealt [5c 8d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #371, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 3d]
+B dealt [Jh 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #372, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Kd]
+A dealt [7s 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #373, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 8h]
+B dealt [Js Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #374, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Ac]
+A dealt [8h 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #375, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 6c]
+B dealt [8d Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #376, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 3s]
+A dealt [Kd 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #377, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c As]
+B dealt [Qd Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #378, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h Kd]
+A dealt [3c Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #379, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 6s]
+B dealt [Ks 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #380, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 5c]
+A dealt [4s 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #381, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 5d]
+B dealt [7h Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #382, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Qs]
+A dealt [Kc 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #383, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 9d]
+B dealt [6d Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #384, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h Jc]
+A dealt [As 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #385, A (-269), B (269)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 4h]
+B dealt [8h 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #386, B (270), A (-270)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Kh]
+A dealt [Kd 5h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #387, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 9h]
+B dealt [2d Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #388, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 4c]
+A dealt [4h Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #389, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Td]
+B dealt [8d 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #390, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 3d]
+A dealt [Qh 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #391, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Tc]
+B dealt [5c 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #392, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Kh]
+A dealt [6d 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #393, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 2c]
+B dealt [5s 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #394, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 6d]
+A dealt [Ad 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #395, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 4d]
+B dealt [9h Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #396, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Qd]
+A dealt [Js 3h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #397, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc As]
+B dealt [Ac Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #398, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 4c]
+A dealt [Qs 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #399, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 3h]
+B dealt [Kc 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #400, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d Js]
+A dealt [Ac Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #401, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d Ac]
+B dealt [Kc Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #402, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 5h]
+A dealt [2d 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #403, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 5s]
+B dealt [4h 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #404, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 8s]
+A dealt [7s 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #405, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Ac]
+B dealt [Tc Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #406, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 3h]
+A dealt [9c 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #407, A (-272), B (272)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 6h]
+B dealt [2d Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #408, B (273), A (-273)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah Qd]
+A dealt [2h 6s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #409, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 7h]
+B dealt [9h 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #410, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s Td]
+A dealt [7c 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #411, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd Ac]
+B dealt [Qs 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #412, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c Jc]
+A dealt [Jh Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #413, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Jd]
+B dealt [4c 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #414, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 2c]
+A dealt [9s 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #415, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 8s]
+B dealt [7c 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #416, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s 7d]
+A dealt [Jh Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #417, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Jc]
+B dealt [Qc 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #418, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 8h]
+A dealt [Ac Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #419, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 6c]
+B dealt [Jh 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #420, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 9h]
+A dealt [6h Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #421, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Jh]
+B dealt [5c 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #422, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 5c]
+A dealt [6c 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #423, A (-275), B (275)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 3d]
+B dealt [6c 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #424, B (276), A (-276)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah Qs]
+A dealt [4s 4d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #425, A (-278), B (278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td Tc]
+B dealt [8h 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #426, B (279), A (-279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c Jh]
+A dealt [4c Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #427, A (-278), B (278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 2c]
+B dealt [Td Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #428, B (279), A (-279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s 7d]
+A dealt [Td 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #429, A (-278), B (278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 2h]
+B dealt [2c Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #430, B (279), A (-279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Qc]
+A dealt [Qs 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #431, A (-278), B (278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 7c]
+B dealt [5h 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #432, B (279), A (-279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d Qs]
+A dealt [7s 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #433, A (-278), B (278)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 9c]
+B dealt [Td 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #434, B (279), A (-279)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Kd]
+A dealt [2d 9c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #435, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 2h]
+B dealt [8d 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #436, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c 5d]
+A dealt [2h Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #437, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Kh]
+B dealt [3c 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #438, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 5s]
+A dealt [Ah Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #439, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 6c]
+B dealt [8h 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #440, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 8d]
+A dealt [8c Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #441, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 5s]
+B dealt [7c Ts]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #442, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 2c]
+A dealt [6c 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #443, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 3c]
+B dealt [Ah As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #444, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 6c]
+A dealt [2s 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #445, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 7d]
+B dealt [3c 4s]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #446, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 4h]
+A dealt [Td Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #447, A (-281), B (281)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Th]
+B dealt [8c 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #448, B (282), A (-282)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc Ts]
+A dealt [5c Tc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #449, A (-284), B (284)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 5c]
+B dealt [8c 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #450, B (285), A (-285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c As]
+A dealt [6h 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #451, A (-284), B (284)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Jh]
+B dealt [Qh Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #452, B (285), A (-285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 3d]
+A dealt [Td 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #453, A (-284), B (284)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 2h]
+B dealt [2c 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #454, B (285), A (-285)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad As]
+A dealt [4s 9d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #455, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 8d]
+B dealt [Ts Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #456, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Ks]
+A dealt [Tc Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #457, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Ad]
+B dealt [6d Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #458, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d 2c]
+A dealt [4s 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #459, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c 8d]
+B dealt [7s Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #460, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 2h]
+A dealt [3s 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #461, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 9s]
+B dealt [Ts 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #462, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 4h]
+A dealt [9s 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #463, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d As]
+B dealt [3c 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #464, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 3d]
+A dealt [Ts Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #465, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 9c]
+B dealt [Qh As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #466, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Jc]
+A dealt [9s 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #467, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 9s]
+B dealt [3c 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #468, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 7c]
+A dealt [8c 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #469, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Qd]
+B dealt [Ac 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #470, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 6h]
+A dealt [7h 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #471, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th Kh]
+B dealt [6c 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #472, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 7s]
+A dealt [3c 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #473, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 2h]
+B dealt [2s Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #474, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 5s]
+A dealt [Td 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #475, A (-287), B (287)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Jd]
+B dealt [Tc 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #476, B (288), A (-288)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Kh]
+A dealt [7c 8s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #477, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Kc]
+B dealt [9s Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #478, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 8d]
+A dealt [Qs As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #479, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 5c]
+B dealt [Jh Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #480, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 7c]
+A dealt [Tc 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #481, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 8c]
+B dealt [As 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #482, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Ts]
+A dealt [7s 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #483, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 5h]
+B dealt [8s 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #484, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 6d]
+A dealt [5s Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #485, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 4d]
+B dealt [8c 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #486, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 4c]
+A dealt [Jc Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #487, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Jc]
+B dealt [As 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #488, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 9c]
+A dealt [9d 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #489, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 6h]
+B dealt [Ad 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #490, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 9c]
+A dealt [Ah 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #491, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c As]
+B dealt [4c Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #492, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 4c]
+A dealt [6c 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #493, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 3h]
+B dealt [7h Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #494, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 4s]
+A dealt [7d Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #495, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Ac]
+B dealt [9d 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #496, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 6h]
+A dealt [Jc 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #497, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s Kh]
+B dealt [7c 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #498, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 9d]
+A dealt [Ah 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #499, A (-290), B (290)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 4d]
+B dealt [Tc Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #500, B (291), A (-291)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Ac]
+A dealt [Qc 6d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #501, A (-293), B (293)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Js]
+B dealt [Ac 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #502, B (294), A (-294)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc Kd]
+A dealt [Ad 2s]
+B raises to 43
+A calls
+Flop [9s 3h 7c], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #503, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 9c]
+B dealt [5h 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #504, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 7d]
+A dealt [8s 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #505, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 9d]
+B dealt [5d 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #506, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 3d]
+A dealt [8h 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #507, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 4h]
+B dealt [6c 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #508, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Ks]
+A dealt [Qh Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #509, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 3h]
+B dealt [2s 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #510, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 6d]
+A dealt [Td Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #511, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Tc]
+B dealt [3h Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #512, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Qs]
+A dealt [6d Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #513, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 5d]
+B dealt [2s Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #514, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 7d]
+A dealt [7c 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #515, A (-337), B (337)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Ts]
+B dealt [5s Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #516, B (338), A (-338)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td Qh]
+A dealt [8c 7s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #517, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2c]
+B dealt [7s Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #518, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 2d]
+A dealt [3s 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #519, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c As]
+B dealt [5s 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #520, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 7s]
+A dealt [3d Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #521, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc Qd]
+B dealt [9c 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #522, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Th]
+A dealt [4c 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #523, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 3s]
+B dealt [2d 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #524, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Qs]
+A dealt [Tc Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #525, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Js]
+B dealt [4h Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #526, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 6c]
+A dealt [6h Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #527, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 7h]
+B dealt [9c 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #528, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 4c]
+A dealt [Jc Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #529, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 8c]
+B dealt [7s 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #530, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 6s]
+A dealt [5d 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #531, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 4s]
+B dealt [4h Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #532, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 7h]
+A dealt [9c Js]
+B folds
+B awarded -1
+A awarded 1
+
+Round #533, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 9h]
+B dealt [Qs Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #534, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 3d]
+A dealt [Th 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #535, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s 7h]
+B dealt [Ah 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #536, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 5c]
+A dealt [Tc Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #537, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Jc]
+B dealt [Ah 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #538, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 3d]
+A dealt [5d Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #539, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 2h]
+B dealt [5s 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #540, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 4d]
+A dealt [Qh 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #541, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 9d]
+B dealt [6s 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #542, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 5d]
+A dealt [2d Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #543, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 2c]
+B dealt [Kh 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #544, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 2s]
+A dealt [Ks Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #545, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5h]
+B dealt [2h Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #546, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Th]
+A dealt [Ad 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #547, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Jh]
+B dealt [7s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #548, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 8s]
+A dealt [Tc Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #549, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 7s]
+B dealt [4s 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #550, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 3d]
+A dealt [Tc 9s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #551, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s Kh]
+B dealt [6c 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #552, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 8d]
+A dealt [4d 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #553, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 8s]
+B dealt [4s Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #554, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 8s]
+A dealt [Jc 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #555, A (-340), B (340)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 7h]
+B dealt [Ac 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #556, B (341), A (-341)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 8c]
+A dealt [3d 3c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #557, A (-343), B (343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Jc]
+B dealt [2d 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #558, B (344), A (-344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 7d]
+A dealt [Js 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #559, A (-343), B (343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 3h]
+B dealt [3c 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #560, B (344), A (-344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 7s]
+A dealt [Ac 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #561, A (-343), B (343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Td]
+B dealt [Qc 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #562, B (344), A (-344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Td]
+A dealt [Th Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #563, A (-343), B (343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 4s]
+B dealt [As 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #564, B (344), A (-344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 9d]
+A dealt [Ah As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #565, A (-343), B (343)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 3d]
+B dealt [Qc 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #566, B (344), A (-344)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Ad]
+A dealt [Ah 5s]
+B raises to 43
+A calls
+Flop [3d Ks 8c], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #567, A (-387), B (387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 2d]
+B dealt [6h 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #568, B (388), A (-388)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 4h]
+A dealt [4d 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #569, A (-387), B (387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 8c]
+B dealt [8d Th]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #570, B (388), A (-388)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Kh]
+A dealt [Kd Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #571, A (-387), B (387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Td]
+B dealt [4s 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #572, B (388), A (-388)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 8d]
+A dealt [8s 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #573, A (-387), B (387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 3s]
+B dealt [Qh 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #574, B (388), A (-388)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 6h]
+A dealt [Th Qd]
+B raises to 43
+A calls
+Flop [5c Qc 5s], B (43), A (43)
+A attempted illegal RaiseAction
+A checks
+B bets 37
+A raises to 74
+B raises to 135
+A raises to 196
+B raises to 267
+A raises to 338
+B raises to 357
+A calls
+Turn [5c Qc 5s 4h], B (400), A (400)
+A checks
+B checks
+River [5c Qc 5s 4h 9s], B (400), A (400)
+A checks
+B checks
+B shows [6s 6h]
+A shows [Th Qd]
+B awarded -400
+A awarded 400
+
+Round #575, A (12), B (-12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As Ac]
+B dealt [5d 3d]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #576, B (-11), A (11)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 3s]
+A dealt [Qs 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #577, A (12), B (-12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 4s]
+B dealt [Ac 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #578, B (-11), A (11)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 4c]
+A dealt [4d 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #579, A (12), B (-12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 7d]
+B dealt [Jh Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #580, B (-11), A (11)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Ac]
+A dealt [6s 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #581, A (12), B (-12)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h Td]
+B dealt [2h 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #582, B (-11), A (11)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Ah]
+A dealt [2d 8c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #583, A (9), B (-9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd Jc]
+B dealt [Ks Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #584, B (-8), A (8)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h Ah]
+A dealt [8s Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #585, A (9), B (-9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Tc]
+B dealt [7c 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #586, B (-8), A (8)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 5s]
+A dealt [7c Qh]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #587, A (6), B (-6)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 7c]
+B dealt [Qc Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #588, B (-5), A (5)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As Ac]
+A dealt [2d 2h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #589, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c 4s]
+B dealt [Qd Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #590, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d Qd]
+A dealt [Jh 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #591, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9c Ah]
+B dealt [9h 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #592, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah 5d]
+A dealt [3s Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #593, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 3c]
+B dealt [Jh 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #594, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 2c]
+A dealt [5s 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #595, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Kd]
+B dealt [4h 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #596, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 4d]
+A dealt [8d Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #597, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Tc]
+B dealt [2h 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #598, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 8s]
+A dealt [Qh 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #599, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 4h]
+B dealt [8d 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #600, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 5d]
+A dealt [6c Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #601, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Js]
+B dealt [3s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #602, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 2c]
+A dealt [Qs 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #603, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s 7s]
+B dealt [9h 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #604, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3d As]
+A dealt [9h Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #605, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Ks]
+B dealt [4c 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #606, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 3d]
+A dealt [9s Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #607, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h As]
+B dealt [Qd Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #608, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Kd]
+A dealt [Td 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #609, A (3), B (-3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 3d]
+B dealt [5s 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #610, B (-2), A (2)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks Kd]
+A dealt [Qd 4s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #611, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Kd]
+B dealt [3h 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #612, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Qc]
+A dealt [2h 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #613, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Js]
+B dealt [8c 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #614, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 2h]
+A dealt [2c 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #615, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s As]
+B dealt [6h Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #616, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Ks]
+A dealt [Kh 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #617, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 9s]
+B dealt [9h Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #618, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Ts]
+A dealt [Th Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #619, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 6s]
+B dealt [9s Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #620, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Ah]
+A dealt [4c Tc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #621, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td Jh]
+B dealt [7c 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #622, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 2h]
+A dealt [8c Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #623, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Td]
+B dealt [Qh 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #624, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Js]
+A dealt [Th 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #625, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah Ac]
+B dealt [Tc 4h]
+A raises to 5
+B folds
+A awarded 2
+B awarded -2
+
+Round #626, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 9h]
+A dealt [Kd 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #627, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 9s]
+B dealt [Kh 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #628, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Js]
+A dealt [5d 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #629, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c Ac]
+B dealt [2d 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #630, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 9c]
+A dealt [6d 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #631, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 7h]
+B dealt [6d Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #632, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 4s]
+A dealt [5c Qd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #633, A (0), B (0)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 3s]
+B dealt [2s 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #634, B (1), A (-1)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Qh]
+A dealt [Js Qc]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #635, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 9h]
+B dealt [7h 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #636, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 3h]
+A dealt [7d 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #637, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad Kc]
+B dealt [Kh 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #638, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 2c]
+A dealt [8s Jc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #639, A (-3), B (3)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 9d]
+B dealt [Kh Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #640, B (4), A (-4)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad Ah]
+A dealt [9h As]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #641, A (-6), B (6)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Jc]
+B dealt [Qs Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #642, B (7), A (-7)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Jc]
+A dealt [6s 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #643, A (-6), B (6)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s Kc]
+B dealt [Ah Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #644, B (7), A (-7)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Jh]
+A dealt [6c 9c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #645, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 5h]
+B dealt [2h 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #646, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Qs]
+A dealt [Qh 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #647, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Jd]
+B dealt [Qs Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #648, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s 5h]
+A dealt [9s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #649, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 7h]
+B dealt [4h Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #650, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 4h]
+A dealt [Jd Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #651, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Kh]
+B dealt [Qd Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #652, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s Qd]
+A dealt [3s 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #653, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Th]
+B dealt [Tc 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #654, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 9s]
+A dealt [Tc Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #655, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 7h]
+B dealt [5h Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #656, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c Jc]
+A dealt [Td As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #657, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7s 3c]
+B dealt [2c 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #658, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9s 6s]
+A dealt [As 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #659, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Jh]
+B dealt [Th Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #660, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Ts]
+A dealt [Ad Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #661, A (-9), B (9)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 7c]
+B dealt [7s 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #662, B (10), A (-10)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd Ts]
+A dealt [Qd Qh]
+B raises to 43
+A raises to 212
+B raises to 382
+A raises to 400
+B calls
+Flop [Js Qc Qs], B (400), A (400)
+A checks
+B checks
+Turn [Js Qc Qs Jh], B (400), A (400)
+A checks
+B checks
+River [Js Qc Qs Jh 3h], B (400), A (400)
+A checks
+B checks
+Run [Js Qc Qs Jh 3h 7h], B (400), A (400)
+A checks
+B checks
+Run [Js Qc Qs Jh 3h 7h Ac], B (400), A (400)
+A checks
+B checks
+B shows [Kd Ts]
+A shows [Qd Qh]
+B awarded -400
+A awarded 400
+
+Round #663, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d 8s]
+B dealt [4d Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #664, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Ts]
+A dealt [6h 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #665, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d Qd]
+B dealt [Ac 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #666, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Ts]
+A dealt [9s 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #667, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 6c]
+B dealt [Ah 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #668, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3h Jh]
+A dealt [8d Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #669, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 5d]
+B dealt [6c 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #670, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 9h]
+A dealt [Jh Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #671, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Kc]
+B dealt [Jd 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #672, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 7d]
+A dealt [6h 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #673, A (390), B (-390)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc 8d]
+B dealt [2c Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #674, B (-389), A (389)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 3h]
+A dealt [Td 4s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #675, A (387), B (-387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 2h]
+B dealt [5h 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #676, B (-386), A (386)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Tc]
+A dealt [Qd 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #677, A (387), B (-387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 8h]
+B dealt [Ks Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #678, B (-386), A (386)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Ad]
+A dealt [Qs 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #679, A (387), B (-387)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 6c]
+B dealt [9h Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #680, B (-386), A (386)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 5h]
+A dealt [5s Js]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #681, A (384), B (-384)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 4s]
+B dealt [5d 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #682, B (-383), A (383)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 2d]
+A dealt [2h 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #683, A (384), B (-384)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 3c]
+B dealt [5s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #684, B (-383), A (383)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 8d]
+A dealt [7s 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #685, A (384), B (-384)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 6c]
+B dealt [4h 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #686, B (-383), A (383)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 3s]
+A dealt [Qs 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #687, A (384), B (-384)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 2s]
+B dealt [3c Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #688, B (-383), A (383)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 3c]
+A dealt [4s 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #689, A (384), B (-384)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc 5s]
+B dealt [Ac 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #690, B (-383), A (383)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Jh]
+A dealt [9s 2s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #691, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Jh]
+B dealt [2s Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #692, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 5d]
+A dealt [7c 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #693, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 3s]
+B dealt [3h Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #694, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c 4d]
+A dealt [8s 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #695, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 3s]
+B dealt [Qc 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #696, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 9s]
+A dealt [Qh Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #697, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Qd]
+B dealt [8c 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #698, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 6d]
+A dealt [2d Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #699, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 6h]
+B dealt [2h Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #700, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc 4s]
+A dealt [Th Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #701, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Jc]
+B dealt [Qs 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #702, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 5d]
+A dealt [9c Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #703, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 5s]
+B dealt [3h Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #704, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c Kc]
+A dealt [5s 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #705, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Qc]
+B dealt [5d 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #706, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 7h]
+A dealt [7c 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #707, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 3h]
+B dealt [5h Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #708, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 3c]
+A dealt [6h Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #709, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Ah]
+B dealt [2d Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #710, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h Ad]
+A dealt [6c 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #711, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 6d]
+B dealt [5d 4c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #712, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 7h]
+A dealt [2s 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #713, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 4c]
+B dealt [7d As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #714, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 4c]
+A dealt [3c 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #715, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 3d]
+B dealt [4c 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #716, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 9d]
+A dealt [Qh 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #717, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Qh]
+B dealt [2d 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #718, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 9d]
+A dealt [6s Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #719, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Jc]
+B dealt [7d Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #720, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 3h]
+A dealt [9c Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #721, A (381), B (-381)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Th]
+B dealt [Js 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #722, B (-380), A (380)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Qd]
+A dealt [Ac Jh]
+B raises to 43
+A calls
+Flop [4h 4c 3s], B (43), A (43)
+A checks
+B bets 37
+A calls
+Turn [4h 4c 3s 3h], B (80), A (80)
+A checks
+B bets 33
+A calls
+River [4h 4c 3s 3h 9d], B (113), A (113)
+A checks
+B bets 30
+A calls
+Run [4h 4c 3s 3h 9d 7c], B (143), A (143)
+A checks
+B checks
+B shows [Th Qd]
+A shows [Ac Jh]
+B awarded -143
+A awarded 143
+
+Round #723, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks 7d]
+B dealt [5d 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #724, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 9h]
+A dealt [3s Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #725, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 2d]
+B dealt [Jc 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #726, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c Qd]
+A dealt [Ad 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #727, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 4h]
+B dealt [4d 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #728, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Th]
+A dealt [5c 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #729, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 8d]
+B dealt [9c 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #730, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 8h]
+A dealt [Th 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #731, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 5c]
+B dealt [Td 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #732, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5d 6c]
+A dealt [9h Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #733, A (523), B (-523)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 6h]
+B dealt [Jc 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #734, B (-522), A (522)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc Td]
+A dealt [4s 8h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #735, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Qs]
+B dealt [9d Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #736, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h Ts]
+A dealt [Kc Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #737, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 8d]
+B dealt [6s 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #738, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c Tc]
+A dealt [As Ks]
+B folds
+B awarded -1
+A awarded 1
+
+Round #739, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Kd]
+B dealt [Td 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #740, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 6h]
+A dealt [7c 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #741, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jc Kh]
+B dealt [Qd Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #742, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Ah]
+A dealt [Ac 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #743, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 7c]
+B dealt [Qc 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #744, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Jh]
+A dealt [As Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #745, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Ah]
+B dealt [9c Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #746, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 7c]
+A dealt [6s 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #747, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Js]
+B dealt [Tc Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #748, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 4c]
+A dealt [6s 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #749, A (520), B (-520)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 6d]
+B dealt [3d 8h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #750, B (-519), A (519)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Ad]
+A dealt [7c Ah]
+B raises to 43
+A calls
+Flop [Ac Ks 4h], B (43), A (43)
+A bets 2
+B raises to 39
+A raises to 76
+B raises to 137
+A raises to 357
+B calls
+Turn [Ac Ks 4h 2s], B (400), A (400)
+A checks
+B checks
+River [Ac Ks 4h 2s 3d], B (400), A (400)
+A checks
+B checks
+Run [Ac Ks 4h 2s 3d 3c], B (400), A (400)
+A checks
+B checks
+B shows [Jh Ad]
+A shows [7c Ah]
+B awarded 0
+A awarded 0
+
+Round #751, A (519), B (-519)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ks Qs]
+B dealt [Jd Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #752, B (-518), A (518)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js 6h]
+A dealt [5h As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #753, A (519), B (-519)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Js]
+B dealt [7h 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #754, B (-518), A (518)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td 8d]
+A dealt [2c 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #755, A (519), B (-519)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Th]
+B dealt [2d 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #756, B (-518), A (518)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d Kd]
+A dealt [Ah 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #757, A (519), B (-519)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Ks]
+B dealt [Ac Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #758, B (-518), A (518)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Jc]
+A dealt [Ts 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #759, A (519), B (-519)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Td]
+B dealt [4d 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #760, B (-518), A (518)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Tc]
+A dealt [4h 9d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #761, A (516), B (-516)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 5c]
+B dealt [Kc Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #762, B (-515), A (515)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 8d]
+A dealt [Jc 8c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #763, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 2s]
+B dealt [6d 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #764, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 7c]
+A dealt [Kc 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #765, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h Qc]
+B dealt [Ah 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #766, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 7h]
+A dealt [Ks 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #767, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 8s]
+B dealt [3s Jc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #768, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5h 3d]
+A dealt [Kc 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #769, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h 3d]
+B dealt [Qc 7c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #770, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Qc]
+A dealt [Kc 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #771, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td 7d]
+B dealt [3d 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #772, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 4s]
+A dealt [3s 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #773, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 4h]
+B dealt [3c 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #774, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 8h]
+A dealt [4d 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #775, A (513), B (-513)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 7s]
+B dealt [2s Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #776, B (-512), A (512)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Jc]
+A dealt [3s 3h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #777, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d Th]
+B dealt [Qc Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #778, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 9c]
+A dealt [8s Ac]
+B folds
+B awarded -1
+A awarded 1
+
+Round #779, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 9h]
+B dealt [6s 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #780, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 3h]
+A dealt [6c 3d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #781, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h Qs]
+B dealt [Ts Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #782, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h Kc]
+A dealt [9d 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #783, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 8s]
+B dealt [Ts 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #784, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8c]
+A dealt [4d Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #785, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 9c]
+B dealt [Js Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #786, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s 3s]
+A dealt [9d Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #787, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 7c]
+B dealt [6c As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #788, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7c 5h]
+A dealt [6h 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #789, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 5d]
+B dealt [8h 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #790, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h 6c]
+A dealt [5h 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #791, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6h 8h]
+B dealt [Ah 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #792, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Jc]
+A dealt [9s 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #793, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d Ts]
+B dealt [6h Th]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #794, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Jc]
+A dealt [6s Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #795, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c 3d]
+B dealt [4h As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #796, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 5d]
+A dealt [9s 9h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #797, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3h Ad]
+B dealt [2s 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #798, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 8s]
+A dealt [8c Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #799, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Qh]
+B dealt [7c Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #800, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 6h]
+A dealt [4s 7s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #801, A (510), B (-510)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 7d]
+B dealt [2s 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #802, B (-509), A (509)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts As]
+A dealt [Qc Kh]
+B raises to 43
+A calls
+Flop [7d 9s 5d], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #803, A (466), B (-466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 4s]
+B dealt [9h 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #804, B (-465), A (465)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs 6c]
+A dealt [3s 6h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #805, A (466), B (-466)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 5h]
+B dealt [Jd Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #806, B (-465), A (465)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kc As]
+A dealt [7d 8s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #807, A (463), B (-463)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qc Ks]
+B dealt [5s Td]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #808, B (-462), A (462)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 3h]
+A dealt [4c Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #809, A (463), B (-463)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 6h]
+B dealt [Jd 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #810, B (-462), A (462)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ts As]
+A dealt [Ks 8c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #811, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 3s]
+B dealt [Qs 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #812, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 9s]
+A dealt [9h Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #813, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c Td]
+B dealt [6c 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #814, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6c Jd]
+A dealt [2d 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #815, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Kd]
+B dealt [8h Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #816, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 2c]
+A dealt [Jc Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #817, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 9h]
+B dealt [3h As]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #818, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 4h]
+A dealt [Jd 4c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #819, A (460), B (-460)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7c 2d]
+B dealt [9h 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #820, B (-459), A (459)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh Qc]
+A dealt [Ad Kd]
+B raises to 43
+A calls
+Flop [7d Qd 2d], B (43), A (43)
+A bets 2
+B raises to 39
+A raises to 190
+B raises to 342
+A raises to 357
+B calls
+Turn [7d Qd 2d Tc], B (400), A (400)
+A checks
+B checks
+River [7d Qd 2d Tc 7c], B (400), A (400)
+A checks
+B checks
+B shows [Kh Qc]
+A shows [Ad Kd]
+B awarded -400
+A awarded 400
+
+Round #821, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 6c]
+B dealt [4d 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #822, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 2h]
+A dealt [4c Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #823, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 4c]
+B dealt [Qc Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #824, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh 6c]
+A dealt [Ac 6s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #825, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc 2d]
+B dealt [Qc Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #826, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 7s]
+A dealt [Qh Jh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #827, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 8c]
+B dealt [Js 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #828, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 3s]
+A dealt [9s 8h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #829, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6c Ah]
+B dealt [7c 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #830, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd 4d]
+A dealt [5h 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #831, A (859), B (-859)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Td Kd]
+B dealt [7d 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #832, B (-858), A (858)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td Qs]
+A dealt [2h As]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #833, A (856), B (-856)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2h Tc]
+B dealt [6h Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #834, B (-855), A (855)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 2s]
+A dealt [5d 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #835, A (856), B (-856)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Kd]
+B dealt [2c 2s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #836, B (-855), A (855)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Td Ad]
+A dealt [Ah 2h]
+B raises to 43
+A calls
+Flop [9h 3d 7s], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #837, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 8c]
+B dealt [3h 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #838, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d Kh]
+A dealt [7c Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #839, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah Jd]
+B dealt [2s 5c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #840, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 2h]
+A dealt [6d 5d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #841, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 4h]
+B dealt [Kc Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #842, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd 6h]
+A dealt [8c 4d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #843, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh Tc]
+B dealt [7c 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #844, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 2s]
+A dealt [3h 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #845, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s Th]
+B dealt [7c 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #846, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jc 4c]
+A dealt [7d 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #847, A (812), B (-812)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2c Kc]
+B dealt [Ts 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #848, B (-811), A (811)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc As]
+A dealt [7d 5c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #849, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac 6c]
+B dealt [5h 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #850, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6h 4d]
+A dealt [Tc 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #851, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 8h]
+B dealt [Ts 8s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #852, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 7s]
+A dealt [6c Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #853, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 2c]
+B dealt [4s 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #854, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc 8s]
+A dealt [7h 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #855, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ac Kc]
+B dealt [6s 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #856, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kh 3h]
+A dealt [Ah 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #857, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 6s]
+B dealt [7d 7c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #858, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 2s]
+A dealt [3c 5c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #859, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kd 5s]
+B dealt [3h Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #860, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 5d]
+A dealt [4h Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #861, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3d 8s]
+B dealt [7h 4d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #862, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d 2c]
+A dealt [4c Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #863, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh Qh]
+B dealt [Ad 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #864, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 8h]
+A dealt [9c 5s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #865, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h Jd]
+B dealt [6h Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #866, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th 5h]
+A dealt [4d 8h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #867, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 2s]
+B dealt [2h 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #868, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s Qc]
+A dealt [7c 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #869, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 8h]
+B dealt [Kd 8c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #870, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d Ts]
+A dealt [Td Qc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #871, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 9c]
+B dealt [4h 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #872, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Tc 3c]
+A dealt [Ah 7h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #873, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8s Qd]
+B dealt [2h Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #874, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 8c]
+A dealt [7c 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #875, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2d 6h]
+B dealt [5c Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #876, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s 2h]
+A dealt [5s Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #877, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js Kd]
+B dealt [Jc 6s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #878, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Th]
+A dealt [Td 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #879, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d Ah]
+B dealt [9s 4s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #880, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 5s]
+A dealt [6h 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #881, A (809), B (-809)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 8h]
+B dealt [4h 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #882, B (-808), A (808)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Kd]
+A dealt [Ts Kh]
+B raises to 43
+A calls
+Flop [Qs 8s 7s], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Round #883, A (765), B (-765)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c Ad]
+B dealt [Td 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #884, B (-764), A (764)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 5d]
+A dealt [Td 9d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #885, A (765), B (-765)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Qd]
+B dealt [4s 6d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #886, B (-764), A (764)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Ac]
+A dealt [Kc 7c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #887, A (762), B (-762)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7h 5h]
+B dealt [Js Qh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #888, B (-761), A (761)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8d]
+A dealt [Kc Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #889, A (762), B (-762)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts 4s]
+B dealt [Td 3c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #890, B (-761), A (761)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h 9d]
+A dealt [4h 8h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #891, A (759), B (-759)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Ad]
+B dealt [Ac 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #892, B (-758), A (758)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 2c]
+A dealt [9c Kd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #893, A (759), B (-759)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd 5s]
+B dealt [8d 2d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #894, B (-758), A (758)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d Ts]
+A dealt [Tc Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #895, A (759), B (-759)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 6c]
+B dealt [Jh 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #896, B (-758), A (758)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Jd]
+A dealt [As Qs]
+B folds
+B awarded -1
+A awarded 1
+
+Round #897, A (759), B (-759)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 5h]
+B dealt [Ah 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #898, B (-758), A (758)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4c 4d]
+A dealt [Jd 3h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #899, A (756), B (-756)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ah 5d]
+B dealt [6h 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #900, B (-755), A (755)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jd Jh]
+A dealt [8d 7s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #901, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c Ah]
+B dealt [Qd Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #902, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h 3h]
+A dealt [Td 2d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #903, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ts Js]
+B dealt [Qs Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #904, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9d 5s]
+A dealt [Qs As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #905, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6s Kd]
+B dealt [Ad 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #906, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4h 7h]
+A dealt [2s 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #907, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4d 2h]
+B dealt [5c Qs]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #908, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 4s]
+A dealt [Qh 3c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #909, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qd Ah]
+B dealt [3c 5s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #910, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Qc]
+A dealt [9h Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #911, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 4c]
+B dealt [Ts 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #912, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 5h]
+A dealt [Ts 8c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #913, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 6s]
+B dealt [Td 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #914, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 2h]
+A dealt [Qh 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #915, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c Ah]
+B dealt [5s 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #916, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s 2c]
+A dealt [Ks 7c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #917, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h 7s]
+B dealt [4c 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #918, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8d 6h]
+A dealt [Kh 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #919, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8c 3c]
+B dealt [6h 9c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #920, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ad 6s]
+A dealt [6d As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #921, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4h Kh]
+B dealt [3c 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #922, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [As 6h]
+A dealt [Ts Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #923, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 6h]
+B dealt [4c 3d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #924, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9c Ac]
+A dealt [7d 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #925, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5s 4s]
+B dealt [3h Ks]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #926, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2h Jd]
+A dealt [Qc 6c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #927, A (753), B (-753)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3c 5c]
+B dealt [2c Qd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #928, B (-752), A (752)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh Ah]
+A dealt [5s 2c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #929, A (750), B (-750)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 8s]
+B dealt [9h Kd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #930, B (-749), A (749)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qd Th]
+A dealt [Jh 6d]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #931, A (747), B (-747)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 8s]
+B dealt [Jc 9d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #932, B (-746), A (746)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 2d]
+A dealt [3h 4h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #933, A (747), B (-747)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 6d]
+B dealt [5c Ah]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #934, B (-746), A (746)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ah Th]
+A dealt [4c 2s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #935, A (744), B (-744)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Tc 7c]
+B dealt [Jd 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #936, B (-743), A (743)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ks 4c]
+A dealt [8s Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #937, A (744), B (-744)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 7d]
+B dealt [6d Tc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #938, B (-743), A (743)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Th Kc]
+A dealt [Qh 9s]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #939, A (741), B (-741)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qs 8s]
+B dealt [Kc Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #940, B (-740), A (740)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 4s]
+A dealt [8c Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #941, A (741), B (-741)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5h 3d]
+B dealt [3h 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #942, B (-740), A (740)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Jh 8c]
+A dealt [Kc 6d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #943, A (741), B (-741)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s 5d]
+B dealt [3s 2c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #944, B (-740), A (740)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2c 8s]
+A dealt [7h 3s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #945, A (741), B (-741)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s Th]
+B dealt [5d 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #946, B (-740), A (740)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qc Qs]
+A dealt [9s Ac]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #947, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9d 6c]
+B dealt [6d 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #948, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Ks]
+A dealt [Qd 8d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #949, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [7d 9h]
+B dealt [3s Kh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #950, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s 7c]
+A dealt [5c Ts]
+B folds
+B awarded -1
+A awarded 1
+
+Round #951, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d 9d]
+B dealt [8d 7s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #952, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Jh]
+A dealt [2s Qh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #953, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8h Td]
+B dealt [5h Ts]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #954, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2s As]
+A dealt [Qh Ah]
+B folds
+B awarded -1
+A awarded 1
+
+Round #955, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 9d]
+B dealt [5h Kc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #956, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s Kh]
+A dealt [Tc Jd]
+B folds
+B awarded -1
+A awarded 1
+
+Round #957, A (738), B (-738)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Qh 3c]
+B dealt [7c Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #958, B (-737), A (737)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3s 3d]
+A dealt [9h 7c]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #959, A (735), B (-735)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kc Ks]
+B dealt [3s 3c]
+A attempted illegal RaiseAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #960, B (-734), A (734)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6s 2c]
+A dealt [7h 2s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #961, A (735), B (-735)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s Js]
+B dealt [Qs Jh]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #962, B (-734), A (734)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7s Td]
+A dealt [Th 8s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #963, A (735), B (-735)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s 7c]
+B dealt [6h Jd]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #964, B (-734), A (734)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 5c]
+A dealt [4c 2c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #965, A (735), B (-735)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5d 4h]
+B dealt [4s 9s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #966, B (-734), A (734)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Js Td]
+A dealt [Qc 3h]
+B raises to 43
+A folds
+B awarded 2
+A awarded -2
+
+Round #967, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9s As]
+B dealt [3c 6c]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #968, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [6d 8d]
+A dealt [Jh 4s]
+B folds
+B awarded -1
+A awarded 1
+
+Round #969, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Js 2s]
+B dealt [5d 8d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #970, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4s Kh]
+A dealt [7d 3h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #971, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 5s]
+B dealt [4h 7d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #972, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5c 2c]
+A dealt [6c Th]
+B folds
+B awarded -1
+A awarded 1
+
+Round #973, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [9h 6s]
+B dealt [9d Js]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #974, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [5s Ac]
+A dealt [6h 7d]
+B folds
+B awarded -1
+A awarded 1
+
+Round #975, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jd 5s]
+B dealt [3c Ad]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #976, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [3c 4h]
+A dealt [7d 2h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #977, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [3s 4s]
+B dealt [Jd 2h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #978, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [4d 2s]
+A dealt [Js Td]
+B folds
+B awarded -1
+A awarded 1
+
+Round #979, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [6d Ac]
+B dealt [Qh 6h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #980, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Ac 8s]
+A dealt [4s 5h]
+B folds
+B awarded -1
+A awarded 1
+
+Round #981, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4s Jd]
+B dealt [Qs Ac]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #982, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [2d 3s]
+A dealt [7c As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #983, A (732), B (-732)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Ad 4s]
+B dealt [Qh 5d]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #984, B (-731), A (731)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qh Qc]
+A dealt [Qs 4s]
+B raises to 43
+A calls
+Flop [4h 7h Jd], B (43), A (43)
+A checks
+B bets 37
+A calls
+Turn [4h 7h Jd 5h], B (80), A (80)
+A checks
+B bets 33
+A folds
+B awarded 80
+A awarded -80
+
+Round #985, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Kh 8h]
+B dealt [Ts 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #986, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [9h Ah]
+A dealt [7s Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #987, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Jh 6s]
+B dealt [4h 3s]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #988, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8c 6d]
+A dealt [5d Kh]
+B folds
+B awarded -1
+A awarded 1
+
+Round #989, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [4c 3d]
+B dealt [Jc Qc]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #990, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8h Ts]
+A dealt [Jc Kc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #991, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [2s 8h]
+B dealt [Jh 9h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #992, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Kd 9d]
+A dealt [3s As]
+B folds
+B awarded -1
+A awarded 1
+
+Round #993, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [Th 9c]
+B dealt [Js 3h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #994, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7d Kc]
+A dealt [5s 9c]
+B folds
+B awarded -1
+A awarded 1
+
+Round #995, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [8d Jc]
+B dealt [Jh 4h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #996, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [8s Kc]
+A dealt [Jh Tc]
+B folds
+B awarded -1
+A awarded 1
+
+Round #997, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [5c 3s]
+B dealt [7d 7h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #998, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [7h 6c]
+A dealt [Th Ad]
+B folds
+B awarded -1
+A awarded 1
+
+Round #999, A (651), B (-651)
+A posts the blind of 1
+B posts the blind of 2
+A dealt [As 4c]
+B dealt [Ah 5h]
+A attempted illegal CheckAction
+A folds
+A awarded -1
+B awarded 1
+
+Round #1000, B (-650), A (650)
+B posts the blind of 1
+A posts the blind of 2
+B dealt [Qs Jh]
+A dealt [4d 4h]
+B raises to 43
+A calls
+Flop [9h 5s 7s], B (43), A (43)
+A checks
+B bets 37
+A folds
+B awarded 43
+A awarded -43
+
+Final, A (607), B (-607)

@@ -1,13 +1,12 @@
-'''
+"""
 The infrastructure for interacting with the engine.
-'''
+"""
 import argparse
 import socket
-from .actions import FoldAction, CallAction, CheckAction, RaiseAction, BidAction
+from .actions import FoldAction, CallAction, CheckAction, RaiseAction
 from .states import GameState, TerminalState, RoundState
 from .states import STARTING_STACK, BIG_BLIND, SMALL_BLIND
 from .bot import Bot
-
 
 class Runner():
     '''
@@ -38,16 +37,19 @@ class Runner():
             code = 'C'
         elif isinstance(action, CheckAction):
             code = 'K'
-        elif isinstance(action, BidAction): 
-            code = 'A' + str(action.amount)
         else:  # isinstance(action, RaiseAction)
             code = 'R' + str(action.amount)
         self.socketfile.write(code + '\n')
         self.socketfile.flush()
 
     def get_round_state(self, state):
-        """Get the RoundState from either a RoundState or TerminalState"""
-        return state.previous_state if isinstance(state, TerminalState) else state
+        '''
+        Safely retrieve the underlying RoundState from either a RoundState or a TerminalState.
+        If it's TerminalState, return its .previous_state (which should be a RoundState).
+        '''
+        if isinstance(state, TerminalState):
+            return state.previous_state  # step back to the last non-terminal state
+        return state
 
     def run(self):
         '''
@@ -57,126 +59,167 @@ class Runner():
         round_state = None
         active = 0
         round_flag = True
-        
+
         for packet in self.receive():
             for clause in packet:
                 if clause[0] == 'T':
-                    game_state = GameState(game_state.bankroll, float(clause[1:]), game_state.round_num)
-                
+                    # T<time> => update game clock
+                    game_state = GameState(
+                        bankroll=game_state.bankroll,
+                        game_clock=float(clause[1:]),
+                        round_num=game_state.round_num
+                    )
+
                 elif clause[0] == 'P':
+                    # P<seat> => which player is active?
                     active = int(clause[1:])
-                
+
                 elif clause[0] == 'H':
+                    # H<cards> => new round, your hole cards
                     hands = [[], []]
                     hands[active] = clause[1:].split(',')
                     pips = [SMALL_BLIND, BIG_BLIND]
                     stacks = [STARTING_STACK - SMALL_BLIND, STARTING_STACK - BIG_BLIND]
-                    round_state = RoundState(0, 0, False, [None, None], pips, stacks, hands, [], None)
+                    # Create a fresh RoundState with no 'auction' or 'bids'
+                    round_state = RoundState(
+                        button=0,       # or some logic if you want to alternate
+                        street=0,
+                        pips=pips,
+                        stacks=stacks,
+                        hands=hands,
+                        deck=[],
+                        previous_state=None
+                    )
                     if round_flag:
                         self.pokerbot.handle_new_round(game_state, round_state, active)
                         round_flag = False
-                
+
                 elif clause[0] == 'F':
+                    # F => fold
                     base_state = self.get_round_state(round_state)
-                    round_state = base_state.proceed(FoldAction())
-                
+                    if base_state is not None:
+                        round_state = base_state.proceed(FoldAction())
+
                 elif clause[0] == 'C':
+                    # C => call
                     base_state = self.get_round_state(round_state)
-                    round_state = base_state.proceed(CallAction())
-                
+                    if base_state is not None:
+                        round_state = base_state.proceed(CallAction())
+
                 elif clause[0] == 'K':
+                    # K => check
                     base_state = self.get_round_state(round_state)
-                    round_state = base_state.proceed(CheckAction())
-                
+                    if base_state is not None:
+                        round_state = base_state.proceed(CheckAction())
+
                 elif clause[0] == 'R':
+                    # R<amount> => raise
+                    amount = int(clause[1:])
                     base_state = self.get_round_state(round_state)
-                    round_state = base_state.proceed(RaiseAction(int(clause[1:])))
-                
-                elif clause[0] == 'A': 
-                    base_state = self.get_round_state(round_state)
-                    round_state = base_state.proceed(BidAction(int(clause[1:])))
-                
-                elif clause[0] == 'N':
-                    hands = [[], []]
-                    stacks, bids, active_hands = clause[1:].split('_')
-                    bids = bids.split(',')
-                    stacks = stacks.split(',')
-                    hands[active] = active_hands.split(',')
-                    base_state = self.get_round_state(round_state)
-                    round_state = RoundState(
-                        base_state.button,
-                        base_state.street,
-                        base_state.auction,
-                        [int(x) for x in bids],
-                        base_state.pips,
-                        [int(x) for x in stacks],
-                        hands,
-                        [],
-                        round_state
-                    )
-                
+                    if base_state is not None:
+                        round_state = base_state.proceed(RaiseAction(amount))
+
+                # Removed 'A' (BidAction) and 'N' (auction) clauses, since no bids/auction logic
+
                 elif clause[0] == 'B':
+                    # B<boardcards> => new board / deck
                     base_state = self.get_round_state(round_state)
-                    round_state = RoundState(
-                        base_state.button,
-                        base_state.street,
-                        base_state.auction,
-                        base_state.bids,
-                        base_state.pips,
-                        base_state.stacks,
-                        base_state.hands,
-                        clause[1:].split(','),
-                        round_state
-                    )
-                
+                    if base_state is not None:
+                        round_state = RoundState(
+                            button=base_state.button,
+                            street=base_state.street,
+                            pips=base_state.pips,
+                            stacks=base_state.stacks,
+                            hands=base_state.hands,
+                            deck=clause[1:].split(','),  # new board
+                            previous_state=round_state  # store transition
+                        )
+
                 elif clause[0] == 'O':
-                    # backtrack
+                    # O<opponent_cards> => opponent revealed cards, backtrack, then rebuild
                     base_state = self.get_round_state(round_state)
-                    base_state = self.get_round_state(base_state.previous_state)  # Need to get base state of previous state too
-                    
-                    revised_hands = list(base_state.hands)
-                    revised_hands[1-active] = clause[1:].split(',')
-                    
-                    # rebuild history
-                    round_state = RoundState(
-                        base_state.button,
-                        base_state.street,
-                        base_state.auction,
-                        base_state.bids,
-                        base_state.pips,
-                        base_state.stacks,
-                        revised_hands,
-                        base_state.deck,
-                        base_state.previous_state
-                    )
-                    round_state = TerminalState([0, 0], round_state.bids, round_state)
-                
+                    if base_state is not None:
+                        # step back one previous state
+                        prev_base = self.get_round_state(base_state.previous_state)
+                        if prev_base is not None:
+                            revised_hands = list(prev_base.hands)
+                            revised_hands[1 - active] = clause[1:].split(',')
+                            # Rebuild
+                            rebuilt = RoundState(
+                                button=prev_base.button,
+                                street=prev_base.street,
+                                pips=prev_base.pips,
+                                stacks=prev_base.stacks,
+                                hands=revised_hands,
+                                deck=prev_base.deck,
+                                previous_state=prev_base.previous_state
+                            )
+                            # Transition to a TerminalState
+                            round_state = TerminalState(deltas=[0, 0],
+                                                        previous_state=rebuilt)
+
                 elif clause[0] == 'D':
+                    # D<delta> => round ended, final delta for active seat
                     assert isinstance(round_state, TerminalState)
                     delta = int(clause[1:])
                     deltas = [-delta, -delta]
                     deltas[active] = delta
-                    round_state = TerminalState(deltas, round_state.bids, round_state.previous_state)
-                    game_state = GameState(game_state.bankroll + delta, game_state.game_clock, game_state.round_num)
+                    # rebuild TerminalState with final deltas
+                    round_state = TerminalState(deltas=deltas,
+                                                previous_state=round_state.previous_state)
+                    # update bankroll
+                    game_state = GameState(
+                        bankroll=game_state.bankroll + delta,
+                        game_clock=game_state.game_clock,
+                        round_num=game_state.round_num
+                    )
+                    # handle end-of-round
                     self.pokerbot.handle_round_over(game_state, round_state, active)
-                    game_state = GameState(game_state.bankroll, game_state.game_clock, game_state.round_num + 1)
+                    # increment round number
+                    game_state = GameState(
+                        bankroll=game_state.bankroll,
+                        game_clock=game_state.game_clock,
+                        round_num=game_state.round_num + 1
+                    )
                     round_flag = True
-                
+
                 elif clause[0] == 'Q':
+                    # Q => engine says quit
                     return
-                    
-            if round_flag:  # ack the engine
+
+            # End of packet processing:
+            if round_flag:
+                # Acknowledge the engine for a new round
                 self.send(CheckAction())
             else:
-                base_state = self.get_round_state(round_state)
-                # Add debug print
-                if active != base_state.button % 2:
-                    print(f"Debug - Mismatch: active={active}, button={base_state.button}, button%2={base_state.button % 2}")
-                    # For now, let's update active to match the button
-                    active = base_state.button % 2
-                action = self.pokerbot.get_action(game_state, base_state, active)
-                self.send(action)
+                # If we haven't started a new round, ask the bot for the next action
+                if isinstance(round_state, TerminalState):
+                    # Already terminal => send a dummy Check to avoid timeouts
+                    self.send(CheckAction())
+                    round_flag = True
+                else:
+                    base_state = self.get_round_state(round_state)
+                    if base_state is not None:
+                        # optional seat mismatch fix
+                        if active != (base_state.button % 2):
+                            # auto-fix mismatch by forcing button = active
+                            base_state = RoundState(
+                                button=active,
+                                street=base_state.street,
+                                pips=base_state.pips,
+                                stacks=base_state.stacks,
+                                hands=base_state.hands,
+                                deck=base_state.deck,
+                                previous_state=base_state.previous_state
+                            )
+                            round_state = base_state
 
+                        action = self.pokerbot.get_action(game_state, base_state, active)
+                        self.send(action)
+                    else:
+                        # If something is out-of-sync, just send a Check
+                        self.send(CheckAction())
+                        round_flag = True
 
 def parse_args():
     '''
@@ -186,7 +229,6 @@ def parse_args():
     parser.add_argument('--host', type=str, default='localhost', help='Host to connect to, defaults to localhost')
     parser.add_argument('port', type=int, help='Port on host to connect to')
     return parser.parse_args()
-
 
 def run_bot(pokerbot, args):
     '''

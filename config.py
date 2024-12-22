@@ -1,10 +1,10 @@
 # PARAMETERS TO CONTROL THE BEHAVIOR OF THE GAME ENGINE
 # DO NOT REMOVE OR RENAME THIS FILE
 PLAYER_1_NAME = 'A'
-PLAYER_1_PATH = './nickbot'
+PLAYER_1_PATH = './nick_rebel_bot'
 # NO TRAILING SLASHES ARE ALLOWED IN PATHS
 PLAYER_2_NAME = 'B'
-PLAYER_2_PATH = './player2_monte_carlo'
+PLAYER_2_PATH = './player3_strong'
 # ./player2_monte_carlo
 # ./player3_strong
 # ./player4_weak

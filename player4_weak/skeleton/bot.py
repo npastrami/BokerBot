@@ -51,9 +51,9 @@ class Bot():
         '''
         # raise NotImplementedError('get_action')
         print(round_state)
-        if round_state.auction:
-            return BidAction(2)
-        elif CallAction in round_state.legal_actions():
+        # if round_state.auction:
+        #     return BidAction(2)
+        if CallAction in round_state.legal_actions():
             return CallAction()
         elif CheckAction in round_state.legal_actions():
             return CheckAction()
