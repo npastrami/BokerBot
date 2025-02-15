@@ -26,6 +26,7 @@ class Player(Bot):
         Returns:
         Nothing.
         '''
+        self.round_counter = 0  
         pass
 
 
@@ -136,14 +137,19 @@ class Player(Bot):
         continue_cost = opp_pip - my_pip  # the number of chips needed to stay in the pot
         my_contribution = STARTING_STACK - my_stack  # the number of chips you have contributed to the pot
         opp_contribution = STARTING_STACK - opp_stack  # the number of chips your opponent has contributed to the pot
-        
-        
 
+        self.round_counter += 1  # Increment round counter
+        print(f"\n=== DEBUG: Round #{self.round_counter} ===")
+        # Debug: Print basic information
+        print("=== DEBUG: get_action ===")
+        print(f"DEBUG: Legal actions: {[action.__name__ for action in legal_actions]}")
+        print(f"DEBUG: Current street: {street}")
+        print(f"DEBUG: My cards: {my_cards}, Board cards: {board_cards}")
+        print(f"DEBUG: My pip: {my_pip}, Opp pip: {opp_pip}")
+        print(f"DEBUG: Continue cost: {continue_cost}")
+        print(f"DEBUG: My stack: {my_stack}, Opp stack: {opp_stack}")
         
         min_raise, max_raise = round_state.raise_bounds()  # the smallest and largest numbers of chips for a legal bet/raise
-        my_action = None
-
-
         pot_total = my_contribution + opp_contribution
 
         if street < 3:
@@ -151,27 +157,26 @@ class Player(Bot):
         else:
             raise_amount = int(my_pip + continue_cost + 0.75 * (pot_total + continue_cost))
 
-        
         raise_amount = max([min_raise, raise_amount])
-
         raise_cost = raise_amount - my_pip
 
+        # Debug: Print raise calculation
+        print(f"DEBUG: Min raise: {min_raise}, Max raise: {max_raise}, Raise amount: {raise_amount}, Raise cost: {raise_cost}")
 
         if (RaiseAction in legal_actions and (raise_cost <= my_stack)):
             temp_action = RaiseAction(raise_amount)
-
         elif (CallAction in legal_actions and (continue_cost <= my_stack)):
             temp_action = CallAction()
-
         elif CheckAction in legal_actions: 
             temp_action = CheckAction()
         else:
             temp_action = FoldAction()
 
-
         MONTE_CARLO_ITERS = 100
         strength = self.calc_strength(my_cards, MONTE_CARLO_ITERS)
 
+        # Debug: Print hand strength
+        print(f"DEBUG: Hand strength: {strength}")
 
         if continue_cost > 0:
             scary = 0
@@ -184,27 +189,28 @@ class Player(Bot):
                 scary = 0.35
 
             strength = max([0, strength - scary])
-
             pot_odds = continue_cost / (pot_total + continue_cost)
+
+            # Debug: Print adjusted strength and pot odds
+            print(f"DEBUG: Adjusted strength: {strength}, Pot odds: {pot_odds}")
 
             if strength > pot_odds:
                 if random.random() < strength and strength > 0.5:
                     my_action = temp_action
-
                 else:
                     my_action = CallAction()
-
             else:
                 my_action = FoldAction()
-
         else:
             if random.random() < strength:
                 my_action = temp_action
-
             else:
                 my_action = CheckAction()
 
-        return my_action 
+        # Debug: Print final action
+        print(f"DEBUG: Selected action: {my_action}")
+        return my_action
+
 
 
 if __name__ == '__main__':
